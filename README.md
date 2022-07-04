@@ -12,7 +12,7 @@ authenticated users.
 3. Display the username on the top of the sidebar and login/logout button depending on if the user is authenticated.
 If the driver clicks on username - the corresponding Driver detail page must open.
 
-4. Protect all your views from unauthenticated users using `login_required` decorator and `LoginRequiredMixin`.
+4. Protect all your views from unauthenticated users.
 
 5. In Driver's list view add (Me), if this is a current user:
     
@@ -23,3 +23,7 @@ Example:
 - Mate student (Me)
 - Bob White
 ```
+
+NOTE: Attach screenshots of all created or modified pages to pull request. It's important to attach images not links to them. See example:
+
+![image](https://mate-academy-images.s3.eu-central-1.amazonaws.com/python_pr_with_images.png)
