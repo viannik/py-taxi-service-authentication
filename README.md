@@ -1,6 +1,11 @@
 # Taxi service authentication 
 
 - Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before start
+- Use the following command to load prepared data from fixture to test and debug your code:
+  `python manage.py loaddata taxi_service_db_data.json`.
+- After loading data from fixture you can use following superuser (or create another one by yourself):
+  - Login: `admin.user`
+  - Password: `1qazcde3`
 
 In this task, you will implement a visit counter, login/logout functionality, and make your site available only 
 authenticated users.
@@ -18,10 +23,9 @@ If the driver clicks on username - the corresponding Driver detail page must ope
     
 Example:
 ```
-- John Smith
-- Alice Black
-- Mate student (Me)
-- Bob White
+- admin.user (Me)
+- joyce.byers
+- jim.hopper
 ```
 
 NOTE: Attach screenshots of all created or modified pages to pull request. It's important to attach images not links to them. See example:
