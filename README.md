@@ -7,6 +7,8 @@
   - Login: `admin.user`
   - Password: `1qazcde3`
 
+Feel free to add more data using admin panel, if needed.
+
 In this task, you will implement a visit counter, login/logout functionality, and make your site available only 
 authenticated users.
 
