@@ -25,9 +25,9 @@ If the driver clicks on username - the corresponding Driver detail page must ope
     
 Example:
 ```
-- admin.user (Me)
-- joyce.byers
-- jim.hopper
+- Admin User (Me)
+- Joyce Byers
+- Jim Hopper
 ```
 
 NOTE: Attach screenshots of all created or modified pages to pull request. It's important to attach images not links to them. See example:
