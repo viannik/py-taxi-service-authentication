@@ -23,6 +23,8 @@ Bad example:
 ```
 
 3. Make sure that `num_visits` works as expected.
+When you visit the page for the first time there should be: `You have visited this page 1 time`
+
 4. Make sure you use 2 whitespaces indentations in your `.html` files.
 
 ## Clean Code
