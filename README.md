@@ -1,6 +1,6 @@
 # Taxi service authentication 
 
-- Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before start
+Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before starting.
 - Use the following command to load prepared data from fixture to test and debug your code:
   `python manage.py loaddata taxi_service_db_data.json`.
 - After loading data from fixture you can use following superuser (or create another one by yourself):
@@ -34,3 +34,5 @@ Example:
 NOTE: Attach screenshots of all created or modified pages to pull request. It's important to attach images not links to them. See example:
 
 ![image](https://mate-academy-images.s3.eu-central-1.amazonaws.com/python_pr_with_images.png)
+
+### Note: Check your code using this [checklist](checklist.md) before pushing your solution.
